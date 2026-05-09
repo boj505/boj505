@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @boj505
-- 👀 I’m interested in Frontend Developmnt
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript codes
-- 📫 How to reach me- b14004058@gmail.com
+- 📫 How to reach me- iadebayo232@gmail.com
 - 😄 Pronouns: ... - He
 - ⚡ Fun fact: ... I learn fast
 
