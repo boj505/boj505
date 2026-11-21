@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @boj505
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Ibrahim
+- 👀 I’m interested in Frontend and headless wordpress Development
+- 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on Javascript codes
 - 📫 How to reach me- iadebayo232@gmail.com
 - 😄 Pronouns: ... - He
